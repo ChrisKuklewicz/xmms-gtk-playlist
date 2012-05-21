@@ -1,0 +1,18 @@
+Xmms Gtk Playlist 2.0
+
+by Chris Kuklewicz (chrisk at mit.edu)
+
+New in version 2.0, it should compile both the xmms_gtk_playlist
+helper application from version 1.0 and a new libgtkplaylist which
+will be installed a General Xmms plugin.
+
+This works with XMMS to provide searching of the playlist.
+
+The COPYING file provides a copy of the modifed BSD license used.
+
+Also, if you are reading this you might also be interested in an
+another project to create a search helper (using QT v2) called Qbble :
+http://www.goulburn.net.au/~hagus/qbble/
+
+Shameless Plug: Since Xmms uses a gtk main loop, there is a better "fit"
+with xmms-gtk-playlist than a qt2.0 solution.

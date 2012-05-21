@@ -1,0 +1,11 @@
+2000-11-13  Chris Kuklewicz  <ckuklewicz@kuklewicz.mit.edu>
+
+	* Releasing version 2.0
+
+	* Now also creates libgtkplaylist.la, which is installed
+	as a *.so library under, e.g. /usr/lib/xmms/General
+	
+2000-09-08  Chris Kuklewicz  <chrisk@mit.edu>
+
+	* xmmm_gtk_playlist works and the GUI is almost polished
+
